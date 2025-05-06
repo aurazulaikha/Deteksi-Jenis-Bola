@@ -1,4 +1,3 @@
-PS D:\SEMESTER 6\Capstone\ball> & "d:/SEMESTER 6/Capstone/ball/venv/Scripts/python.exe" "d:/SEMESTER 6/Capstone/ball/machine_learning/model.py"
 2025-04-21 14:35:55.981777: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
 2025-04-21 14:35:57.582768: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
 Found 1907 files belonging to 4 classes.
